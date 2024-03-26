@@ -1,4 +1,4 @@
-# Project Overview
+# Project
 
 I cover the full process of building a beginner machine learning project. This includes creating a hypothesis, setting up the model, and measuring error.
 
